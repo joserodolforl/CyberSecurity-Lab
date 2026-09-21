@@ -1,5 +1,3 @@
-# CyberSecurity-Lab
-laboratorio de ciberseguridad
 # Cybersecurity Lab
 
 Mi laboratorio personal de aprendizaje enfocado en:
